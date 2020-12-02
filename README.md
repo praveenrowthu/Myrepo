@@ -2,3 +2,4 @@
 #Myname
 orange
 echo $SHELL
+pwd
